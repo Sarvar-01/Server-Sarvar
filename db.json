@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "firstName": "Sarvar",
+      "lastName": "Abdumajidov",
+      "id": 1
+    },
+    {
+      "firstName": "Erlan",
+      "lastName": "Abdusamatov",
+      "id": 2
+    },
+    {
+      "firstName": "Firdavs",
+      "lastName": "Erqulov",
+      "id": 3
+    },
+    {
+      "firstName": "Mushtariy",
+      "lastName": "Ermuhammedova",
+      "id": 4
+    },
+    {
+      "firstName": "Diyora",
+      "lastName": "Hudoyberdiyeva",
+      "id": 5
+    }
+  ]
+}
